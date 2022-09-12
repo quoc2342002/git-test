@@ -7,9 +7,12 @@
     background: #9575CD ;
     color:floralwhite;
 }
-.phancuoi{
-    background-color:#D1C4E9;
-    font-size: 80%;
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+   
+
 }
 .lichsu{
     margin-top: 40px;
